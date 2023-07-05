@@ -1,0 +1,135 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 50px;
+}
+.blue-color{
+    color: blue;
+}
+section{
+    display: flex;
+    
+}
+.half-width{
+    width: 50%;
+}
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+.link-button{
+    background-image: linear-gradient(red,orange);
+    padding:20px 10px;
+    color: white;
+    font-weight: 700px;
+    border-radius: 10px;
+    text-decoration: none;
+    margin: 100px;
+}
+.size{
+    width: 30%;
+}
+.button1{
+    margin-top: 80px;
+   
+}
+.button2{
+    margin-top: 100px;
+}
+.background-image{
+    background-image: url(Frame\ 57.jpg);
+    background-repeat: no-repeat;
+}
+.recipe{
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
+    border-radius: 10%;
+    box-shadow: 10px 10px 50px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+#f1{
+    text-align: center;
+}
+.meat{
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
+    border-radius: 10%;
+    box-shadow: 10px 10px 50px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.salad{
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
+    border-radius: 10%;
+    box-shadow: 10px 10px 50px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.flexible-container{
+    display: flex;
+    
+}
+.on{
+    background-image: linear-gradient(#8E44AD,#7FB3D5);
+    padding:20px 10px;
+    color: white;
+    font-weight: 700px;
+    border-radius: 10px;
+    text-decoration: none;
+    margin: 200px;
+}
+#aaa{
+    width: 70%;
+    margin-left: 20%;
+  }
+#bbb{
+    width: 70%;
+}
+#ccc{
+    width:50%;
+    margin-right: 10%;
+}
+.tera{
+    box-shadow: 5px 5px 30px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+    border-radius: 20px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+ 
+}
+.www{
+    color:gray;
+.gg{
+    padding-left: 35%;
+}
+}
+.eee{
+    color:orange;
+}
+.back{
+    background-color: black;
+    padding-left: 35%;
+    
+}
+.ttt{
+    margin-top: 10%;
+    margin-left: 10%;
+}
+.zzz{
+    margin-left: 5%;
+}
